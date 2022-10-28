@@ -1,0 +1,8 @@
+print("digite sua idade:")
+local x = io.read()
+print("Olá Sandra")
+print("digite o numero da sua conta:")
+local y = io.read()
+print("digite o numero da sua senha:")
+local z = io.read()
+print("Obrigado pelo emprestimo")
